@@ -1,7 +1,10 @@
+
+
 ### Hi there 👋
 
 #### 🍏 I am a developer with a high-interest in technical problems related to innovation and technology.
 #### 🔭 I’m currently working as an automation/devops engineer.
+###### interested in golang projects lately.
  
 #### Devops:
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,grafana)](https://skillicons.dev)
@@ -28,7 +31,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![YasLbk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasLbk&theme=dark)](https://github.com/YasLbk/github-readme-stats)
 
