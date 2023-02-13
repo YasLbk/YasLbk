@@ -4,7 +4,7 @@
 
 #### 🍏 I am a developer with a high-interest in technical problems related to innovation and technology.
 #### 🔭 I’m currently working as an automation/devops engineer.
-###### interested in golang projects lately.
+###### ⚠️ interested in golang projects lately.
  
 #### Devops:
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,grafana)](https://skillicons.dev)
