@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 #### 🍏 I am a developer with a high-interest in technical problems related to innovation and technology.
-#### 🔭 I’m currently working as an automation/devops engineer.
+#### 🔭 Currently working as an automation/devops engineer.
 ###### ⚠️ interested in golang projects lately.
  
 #### Devops:
