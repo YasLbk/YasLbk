@@ -7,7 +7,7 @@
 ###### ⚠️ interested in golang projects lately.
  
 #### Devops:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,grafana,ansible)](https://skillicons.dev)
 #### Embeeded
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
 #### Back End:
