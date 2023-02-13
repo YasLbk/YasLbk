@@ -14,11 +14,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,go,java,postgres)](https://skillicons.dev)
 #### Front End:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
-#### Divers
-[![My Skills](https://skillicons.dev/icons?i=erlang,promela)](https://skillicons.dev)
+<!-- #### Divers
+[![My Skills](https://skillicons.dev/icons?i=erlang,promela)](https://skillicons.dev) -->
 
-
-<!--
+<!-- 
 **NiCrook/NiCrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ -->
 [![YasLbk's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasLbk&theme=dark)](https://github.com/YasLbk/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasLbk)](https://github.com/YasLbk/github-readme-stats)
