@@ -6,16 +6,6 @@
 #### 🔭 Currently working as an automation/devops engineer.
 ###### ⚠️ interested in golang projects lately.
  
-#### Devops:
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,jenkins,kubernetes,grafana,ansible)](https://skillicons.dev)
-#### Embeeded
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
-#### Back End:
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,nodejs,go,java,postgres)](https://skillicons.dev)
-#### Front End:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
-<!-- #### Divers
-[![My Skills](https://skillicons.dev/icons?i=erlang,promela)](https://skillicons.dev) -->
 
 <!-- 
 **NiCrook/NiCrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
